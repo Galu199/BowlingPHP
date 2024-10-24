@@ -6,4 +6,4 @@
 - run commands in root folder
 - - ```composer install``` or ```composer update``` (vendor folder should apper)
 - - ```composer dump-autoinstall``` or simmilar command ```composer update local 'composer.phar'```
-- run program with this command ```path_to_php.exe path_to_app.php```
+- run program with this command ```{path_to_}php.exe {path_to_}app.php```
